@@ -18,6 +18,7 @@ const Project = () => {
     },
     {
         title: "Natural Farms",
+        // image: "src/assets/natural.png",
         image: "https://img.freepik.com/free-vector/world-food-day-event-lettering_52683-44477.jpg?t=st=1732110884~exp=1732114484~hmac=40888211f17078cdb491c4ea90f695b53a0a77864076c30b7296d8ac690cb1c7&w=740",
         skills: ["HTML"," ", "CSS"],
         link: "https://sandhyaranibaithi.github.io/home_page/Day-1/Day-1NF.html",

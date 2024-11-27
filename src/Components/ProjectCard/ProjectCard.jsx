@@ -10,7 +10,7 @@ const ProjectCard = ({ projectTitle, projectImage, projectLink ,projectSkills })
       </a>
       <h3 className="project-title">{projectTitle}</h3>
       <h3 className="project-skills">{projectSkills}</h3>
-      <h3 className="project-title">{}</h3>
+      {/* <h3 className="project-title">{}</h3> */}
     </div>
     
     
