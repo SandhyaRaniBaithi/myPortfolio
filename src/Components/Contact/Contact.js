@@ -16,7 +16,7 @@ const Contact = () => {
         'service_binmahi',
         'template_orh2foo',
         form.current,
-        'ec_zoND8rN9xa4ARD' // This should be the actual public key as a string.
+        'ec_zoND8rN9xa4ARD' 
       )
       .then(
         (result) => {

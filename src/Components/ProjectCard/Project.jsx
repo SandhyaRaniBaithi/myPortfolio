@@ -14,7 +14,7 @@ const Project = () => {
       title: "Facebook Clone",
       image: "https://img.freepik.com/free-vector/facebook-blue-background_23-2147614786.jpg?t=st=1732108252~exp=1732111852~hmac=d428dece5a435fd9f3b46b24b5b9a513101d0373a7a29fb0b338e121c53a053f&w=740",
       skills: ["HTML"," ", "CSS"," ", "JAVASCRIPT"],
-      link: "https://sandhyaranibaithi.github.io/Facebook-/Social%20book/index.html",
+      link: "https://sandhyaranibaithi.github.io/Social-book-/Social%20book/index.html",
     },
     {
         title: "Natural Farms",
