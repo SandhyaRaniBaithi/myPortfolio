@@ -24,10 +24,10 @@ const Project = () => {
         link: "https://sandhyaranibaithi.github.io/home_page/Day-1/Day-1NF.html",
       },
       {
-        title: "Login Page",
-        image: "https://img.freepik.com/free-vector/dark-gray-login-template_1017-7461.jpg?t=st=1732109782~exp=1732113382~hmac=e8255ea741952dfa0c91a8b909d28dac4583c2a797b240ebdc0b802ea1a087b9&w=740",
-        skills: ["HTML"," ", "CSS"],
-        link: "https://sandhyaranibaithi.github.io/login-form-/Login%20form-2/login%20form.html",
+        title: "Shopper e-commerce",
+        image: "https://img.freepik.com/free-photo/showing-cart-trolley-shopping-online-sign-graphic_53876-133967.jpg?t=st=1736263169~exp=1736266769~hmac=974c4d0e75a98af71151a5017f7b55b64ce66375697172061cefe7f88f390d9e&w=740",
+        skills: ["HTML"," ", "CSS" , " " , "React.js"],
+        link: "https://frontend-six-eta-73.vercel.app/",
       },
   ];
 
